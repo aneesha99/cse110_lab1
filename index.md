@@ -31,6 +31,5 @@ This year, I also have a couple goals I'd like to achieve:
 - [] learn french
 
 I also occasionally foster dogs and cats which is always a lot of fun.
-![cats]()
-![dogs]()
-[INSERT DOG & CAT PICTURE WITH RELATIVE LINKS]
+![cats](pictures/cat.JPG)
+![dogs](pictures/dog.jpg)
