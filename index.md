@@ -27,9 +27,9 @@ Outside of academics, I have many interests that I enjoy including:
 - reading
 
 This year, I also have a couple goals I'd like to achieve:
-- [x] start journaling
-- [ ] learn to play piano by ear
-- [ ] learn french
+- [x]  start journaling
+- [ ]  learn to play piano by ear
+- [ ]  learn french
 
 I also occasionally foster dogs and cats which is always a lot of fun.
 
