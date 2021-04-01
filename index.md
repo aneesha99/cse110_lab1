@@ -16,7 +16,8 @@ print("Hello World")
 ```
 Aside from classwork, I am also doing research at the Berg Lab in computer vision to help develop an Optical Character Recognition system. In balancing this coursework and research, my professors have consistently given the advice to 
 > Start early, start often.
-You can see more about my academic interests [here](www.linkedin.com/in/aneesha-ramaswamy).
+
+You can see more about my academic interests [here](https://www.linkedin.com/in/aneesha-ramaswamy).
 
 ### Extracurriculars
 
@@ -31,5 +32,5 @@ This year, I also have a couple goals I'd like to achieve:
 - [ ] learn french
 
 I also occasionally foster dogs and cats which is always a lot of fun.
-![cats](pictures/cat.JPG)
-![dogs](pictures/dog.jpg)
+![cats](pictures/small_cat.JPG)
+![dogs](pictures/small_dog.jpg)
